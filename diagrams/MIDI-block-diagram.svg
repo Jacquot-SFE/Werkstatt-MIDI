@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 351.893"
+   enable-background="new 0 0 1000 351.893"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%"
+   sodipodi:docname="MIDI-block-diagram.svg"
+   inkscape:export-filename="C:\Users\byron.jacquot\Desktop\enginursday\moog\graphics\MIDI-block-diagram.png"
+   inkscape:export-xdpi="54"
+   inkscape:export-ydpi="54"><metadata
+   id="metadata75"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs73" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1058"
+   id="namedview71"
+   showgrid="false"
+   inkscape:zoom="2.288"
+   inkscape:cx="520.00347"
+   inkscape:cy="139.44532"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<line
+   stroke-miterlimit="10"
+   x1="585.66437"
+   y1="179.43301"
+   x2="585.66437"
+   y2="283.09427"
+   id="line3-4-9-50-06-7"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="393.7937"
+   y1="210.46512"
+   x2="393.7937"
+   y2="283.96771"
+   id="line3-4-9-50-06-1"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="593.79395"
+   y1="195.39874"
+   x2="915.08405"
+   y2="195.39874"
+   id="line3-4-6-6-8"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="518.42499"
+   y1="156.1514"
+   x2="518.42499"
+   y2="223.28242"
+   id="line3-4-9-50-06-6"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="518.61908"
+   y1="156.06306"
+   x2="839.90924"
+   y2="156.06306"
+   id="line3-4-6-6"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="651.72925"
+   y1="140.50867"
+   x2="651.72925"
+   y2="244.16992"
+   id="line3-4-9-50-8"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="630.75018"
+   y1="122.58909"
+   x2="630.75018"
+   y2="226.25034"
+   id="line3-4-9-50-3"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="578.73969"
+   y1="105.10658"
+   x2="578.73969"
+   y2="208.76782"
+   id="line3-4-9-50-1"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="458.98444"
+   y1="142.25691"
+   x2="458.98444"
+   y2="245.91817"
+   id="line3-4-9-50-06"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="435.38306"
+   y1="123.46322"
+   x2="435.38306"
+   y2="227.12447"
+   id="line3-4-9-50-0"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="385.55789"
+   y1="105.98071"
+   x2="385.55789"
+   y2="209.64195"
+   id="line3-4-9-50"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="331.11908"
+   y1="141.20294"
+   x2="652.40924"
+   y2="141.20294"
+   id="line3-4-6"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="22.645031"
+   y1="282.79413"
+   x2="786.35736"
+   y2="282.79413"
+   id="line3"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="51.453259"
+   y1="105.36377"
+   x2="579.80237"
+   y2="105.36377"
+   id="line3-4-9-5-4"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="93.342636"
+   y1="170.9232"
+   x2="197.00391"
+   y2="170.9232"
+   id="line3-4-9-5"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="88.097885"
+   y1="145.13649"
+   x2="191.75912"
+   y2="145.13649"
+   id="line3-4-9"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><rect
+   x="23.140003"
+   y="52.38126"
+   stroke-miterlimit="10"
+   width="130.25005"
+   height="242.32869"
+   id="rect15-1"
+   style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="341.57657"
+   y1="87.144608"
+   x2="778.79376"
+   y2="87.144608"
+   id="line3-4-5"
+   style="fill:none;stroke:#000000;stroke-width:3.00000024;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="318.71652"
+   y1="123.71106"
+   x2="632.21411"
+   y2="123.71106"
+   id="line3-4"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10" />
+
+
+
+
+
+
+
+
+
+
+
+<rect
+   x="391.39355"
+   y="120.96867"
+   width="158"
+   height="154"
+   id="rect33"
+   style="fill:none" />
+
+
+
+<rect
+   x="51.453671"
+   y="333.13428"
+   width="62.5"
+   height="27.5"
+   id="rect45"
+   style="fill:none" />
+
+<rect
+   x="589.39355"
+   y="134.46867"
+   width="158"
+   height="140.5"
+   id="rect49"
+   style="fill:none" />
+
+
+
+
+
+
+
+<flowRoot
+   xml:space="preserve"
+   id="flowRoot3853"
+   style="font-size:16px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Sans Oblique"
+   transform="translate(-78.671329,8.7412561)"><flowRegion
+     id="flowRegion3855"><rect
+       id="rect3857"
+       width="3.4965036"
+       height="55.944057"
+       x="768.35663"
+       y="184.93495" /></flowRegion><flowPara
+     id="flowPara3859" /></flowRoot><flowRoot
+   xml:space="preserve"
+   id="flowRoot3861"
+   style="font-size:16px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Sans Oblique"
+   transform="translate(-78.671329,8.7412561)"><flowRegion
+     id="flowRegion3863"><rect
+       id="rect3865"
+       width="60.314686"
+       height="92.657341"
+       x="884.61536"
+       y="68.676216" /></flowRegion><flowPara
+     id="flowPara3867" /></flowRoot><text
+   xml:space="preserve"
+   style="font-size:16px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Sans Oblique"
+   x="842.65735"
+   y="127.24265"
+   id="text3869"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan3871"
+     x="842.65735"
+     y="127.24265" /></text>
+
+<circle
+   sodipodi:ry="8"
+   sodipodi:rx="8"
+   sodipodi:cy="312.89301"
+   sodipodi:cx="420"
+   transform="translate(-35.055672,-207.36373)"
+   cx="420"
+   cy="312.89301"
+   r="8"
+   id="circle67-2" /><rect
+   x="842.46344"
+   y="123.59103"
+   width="158"
+   height="154"
+   id="rect27"
+   style="fill:none" /><rect
+   x="842.46344"
+   y="137.09103"
+   width="158"
+   height="140.5"
+   id="rect29"
+   style="fill:none" /><rect
+   x="779.41724"
+   y="60.092667"
+   stroke-miterlimit="10"
+   width="205.89679"
+   height="229.86038"
+   id="rect25"
+   style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><flowRoot
+   xml:space="preserve"
+   id="flowRoot3073-1"
+   style="font-size:16px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn"
+   transform="translate(763.8334,291.79788)"><flowRegion
+     id="flowRegion3075-7"><rect
+       id="rect3077-4"
+       width="125.12424"
+       height="80.119629"
+       x="88.286713"
+       y="-220.65945"
+       style="text-align:center;text-anchor:middle;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn" /></flowRegion><flowPara
+     id="flowPara3083-4"
+     style="font-size:20px;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn">Moog</flowPara><flowPara
+     style="font-size:20px;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn"
+     id="flowPara3921">Werkstatt-01</flowPara><flowPara
+     style="font-size:20px;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn"
+     id="flowPara3923">Synthesizer</flowPara></flowRoot><text
+   font-size="23"
+   id="text47-2"
+   x="785.61267"
+   y="283.29315"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">CHASSIS SCREW</text>
+
+<text
+   font-size="23"
+   id="text47-8-2"
+   x="783.35309"
+   y="94.434883"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">GATE</text>
+
+<text
+   font-size="23"
+   id="text47-8-1"
+   x="785.66486"
+   y="162.67258"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">VCO EXP IN</text>
+
+<flowRoot
+   xml:space="preserve"
+   id="flowRoot3073"
+   style="font-size:16px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn"
+   transform="translate(-74.187499,282.69187)"><flowRegion
+     id="flowRegion3075"><rect
+       id="rect3077"
+       width="112.76224"
+       height="75.174828"
+       x="88.286713"
+       y="-220.65945"
+       style="text-align:center;text-anchor:middle;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn" /></flowRegion><flowPara
+     id="flowPara3083"
+     style="font-size:20px;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn">MIDI Breakout</flowPara></flowRoot><text
+   font-size="23"
+   id="text47-82-8"
+   x="117.41466"
+   y="149.11481"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">TX</text>
+
+<text
+   font-size="23"
+   id="text47-82-9"
+   x="120.03703"
+   y="175.33858"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">RX</text>
+
+<text
+   font-size="23"
+   id="text47-1"
+   x="109.47633"
+   y="286.3526"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">GND</text>
+
+<text
+   font-size="23"
+   id="text47-82-9-7-2-3"
+   x="115.87733"
+   y="110.65329"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">VCC</text>
+
+<rect
+   x="168.02257"
+   y="52.765869"
+   stroke-miterlimit="10"
+   width="178.46187"
+   height="243.2028"
+   id="rect15"
+   style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:10" /><rect
+   style="fill:none"
+   x="184.45654"
+   y="33.968666"
+   width="49.625"
+   height="25"
+   id="rect41" /><text
+   font-size="23"
+   id="text47"
+   x="179.42389"
+   y="288.25851"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">GND</text>
+
+<text
+   font-size="23"
+   id="text47-8"
+   x="249.2793"
+   y="89.096031"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">GATE(pin16)</text>
+
+<text
+   font-size="23"
+   id="text47-82"
+   x="306.41251"
+   y="129.61018"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">SDA</text>
+
+<text
+   font-size="23"
+   id="text47-82-6"
+   x="309.72238"
+   y="146.92949"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">SCL</text>
+
+<flowRoot
+   xml:space="preserve"
+   id="flowRoot3073-8"
+   style="font-size:16px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn"
+   transform="translate(69.876571,278.86199)"><flowRegion
+     id="flowRegion3075-5"><rect
+       id="rect3077-7"
+       width="145.97902"
+       height="54.195808"
+       x="88.286713"
+       y="-220.65945"
+       style="text-align:center;text-anchor:middle;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn" /></flowRegion><flowPara
+     style="font-size:20px;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn"
+     id="flowPara4281">Pro-Micro</flowPara></flowRoot><text
+   font-size="23"
+   id="text47-82-8-2"
+   x="178.83392"
+   y="176.72475"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">TX</text>
+
+<text
+   font-size="23"
+   id="text47-82-9-7"
+   x="177.95978"
+   y="149.62683"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">RX</text>
+
+<text
+   font-size="23"
+   id="text47-3"
+   x="304.84348"
+   y="286.78967"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">GND</text>
+
+<text
+   font-size="23"
+   id="text47-82-9-7-2"
+   x="176.20718"
+   y="111.60238"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">VCC</text>
+
+<text
+   font-size="23"
+   id="text47-82-9-7-2-34"
+   x="305.99973"
+   y="111.96445"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">VCC</text>
+
+<g
+   id="g4624"
+   transform="translate(41.152281,43.680562)"><rect
+   style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:10"
+   id="rect15-1-1"
+   height="92.853149"
+   width="165.03496"
+   stroke-miterlimit="10"
+   y="127.58181"
+   x="328.75876" /><flowRoot
+   transform="translate(269.23077,390.29719)"
+   style="font-size:16px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn"
+   id="flowRoot3073-3"
+   xml:space="preserve"><flowRegion
+     id="flowRegion3075-8"><rect
+       style="text-align:center;text-anchor:middle;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn"
+       y="-220.65945"
+       x="88.286713"
+       height="75.174828"
+       width="112.76224"
+       id="rect3077-74" /></flowRegion><flowPara
+     style="font-size:20px;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn"
+     id="flowPara3083-2">MCP4725</flowPara><flowPara
+     id="flowPara4538"
+     style="font-size:20px;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn">DAC</flowPara></flowRoot><text
+   transform="matrix(0,1,-1,0,0,0)"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn"
+   y="-389.90897"
+   x="131.98991"
+   id="text47-82-7"
+   font-size="23">SDA</text>
+
+<text
+   transform="matrix(0,1,-1,0,0,0)"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn"
+   y="-413.01425"
+   x="133.88441"
+   id="text47-82-6-7"
+   font-size="23">SCL</text>
+
+<text
+   transform="matrix(0,1,-1,0,0,0)"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn"
+   y="-339.46005"
+   x="131.16351"
+   id="text47-82-9-7-2-34-9"
+   font-size="23">VCC</text>
+
+<text
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn"
+   y="155.69649"
+   x="454.63126"
+   id="text47-82-6-7-3"
+   font-size="23">OUT</text>
+
+<text
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn"
+   y="213.38879"
+   x="334.49539"
+   id="text47-3-1"
+   font-size="23">GND</text>
+
+</g><g
+   id="g4624-9"
+   transform="translate(233.0229,43.243496)"><rect
+   style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:10"
+   id="rect15-1-1-8"
+   height="92.853149"
+   width="165.03496"
+   stroke-miterlimit="10"
+   y="127.58181"
+   x="328.75876" /><flowRoot
+   transform="translate(269.23077,390.29719)"
+   style="font-size:16px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn"
+   id="flowRoot3073-3-6"
+   xml:space="preserve"><flowRegion
+     id="flowRegion3075-8-5"><rect
+       style="text-align:center;text-anchor:middle;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn"
+       y="-220.65945"
+       x="88.286713"
+       height="75.174828"
+       width="112.76224"
+       id="rect3077-74-0" /></flowRegion><flowPara
+     style="font-size:20px;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn"
+     id="flowPara3083-2-2">MCP4725</flowPara><flowPara
+     id="flowPara4538-8"
+     style="font-size:20px;font-family:HelveticaNeueLTPro-Cn;-inkscape-font-specification:HelveticaNeueLTPro-Cn">DAC</flowPara></flowRoot><text
+   transform="matrix(0,1,-1,0,0,0)"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn"
+   y="-389.90897"
+   x="131.98991"
+   id="text47-82-7-6"
+   font-size="23">SDA</text>
+
+<text
+   transform="matrix(0,1,-1,0,0,0)"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn"
+   y="-413.01425"
+   x="133.88441"
+   id="text47-82-6-7-0"
+   font-size="23">SCL</text>
+
+<text
+   transform="matrix(0,1,-1,0,0,0)"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn"
+   y="-339.46005"
+   x="131.16351"
+   id="text47-82-9-7-2-34-9-2"
+   font-size="23">VCC</text>
+
+<text
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn"
+   y="155.69649"
+   x="454.63126"
+   id="text47-82-6-7-3-4"
+   font-size="23">OUT</text>
+
+<text
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn"
+   y="213.38879"
+   x="334.49539"
+   id="text47-3-1-8"
+   font-size="23">GND</text>
+
+</g><circle
+   sodipodi:ry="8"
+   sodipodi:rx="8"
+   sodipodi:cy="312.89301"
+   sodipodi:cx="420"
+   transform="translate(14.945988,-189.17259)"
+   cx="420"
+   cy="312.89301"
+   r="8"
+   id="circle67-2-9" /><circle
+   sodipodi:ry="8"
+   sodipodi:rx="8"
+   sodipodi:cy="312.89301"
+   sodipodi:cx="420"
+   transform="translate(38.984451,-171.69007)"
+   cx="420"
+   cy="312.89301"
+   r="8"
+   id="circle67-2-3" /><circle
+   sodipodi:ry="8"
+   sodipodi:rx="8"
+   sodipodi:cy="312.89301"
+   sodipodi:cx="420"
+   transform="translate(159.17676,-208.40336)"
+   cx="420"
+   cy="312.89301"
+   r="8"
+   id="circle67-2-4" /><circle
+   sodipodi:ry="8"
+   sodipodi:rx="8"
+   sodipodi:cy="312.89301"
+   sodipodi:cx="420"
+   transform="translate(210.75018,-190.48378)"
+   cx="420"
+   cy="312.89301"
+   r="8"
+   id="circle67-2-46" /><circle
+   sodipodi:ry="8"
+   sodipodi:rx="8"
+   sodipodi:cy="312.89301"
+   sodipodi:cx="420"
+   transform="translate(231.7292,-171.25301)"
+   cx="420"
+   cy="312.89301"
+   r="8"
+   id="circle67-2-0" /><text
+   font-size="23"
+   id="text47-8-1-1"
+   x="785.30048"
+   y="199.38095"
+   style="font-size:16px;font-family:HelveticaNeueLTPro-Cn">LFO IN</text>
+
+<circle
+   sodipodi:ry="8"
+   sodipodi:rx="8"
+   sodipodi:cy="312.89301"
+   sodipodi:cx="420"
+   transform="translate(165.66434,-30.055952)"
+   cx="420"
+   cy="312.89301"
+   r="8"
+   id="circle67-2-4-4"
+   inkscape:export-filename="C:\Users\byron.jacquot\Desktop\enginursday\moog\graphics\MIDI-block-diagram.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90" /><circle
+   sodipodi:ry="8"
+   sodipodi:rx="8"
+   sodipodi:cy="312.89301"
+   sodipodi:cx="420"
+   transform="translate(-26.206294,-30.493015)"
+   cx="420"
+   cy="312.89301"
+   r="8"
+   id="circle67-2-4-0" /></svg>
