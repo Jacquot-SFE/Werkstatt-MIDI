@@ -31,7 +31,7 @@ Bill Of Materials
 Version History
 ---------------
 
-* [24dd78154b](https://github.com/sparkfun/Pi_Wedge/commit/9d9670af0e99a6d3599a9afe51451999449d4cf8) PCB revision 1.2 
+* [7fac8c0](https://github.com/Jacquot-SFE/Werkstatt-MIDI/commit/7fca8c0658635085f6b7fcb229df15732892a324) Initial commit 
 
 
 License Information
