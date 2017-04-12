@@ -130,11 +130,12 @@ bool mapCheck(uint8_t & keynum)
       uint8_t j,k;
       for(j = 0x1, k = 0; k < 8; j <<= 1, k++)
       {
+#if 0        
         Serial.print("j: ");
         Serial.print(j);
         Serial.print("k: ");
         Serial.println(k);
-        
+#endif        
         if(voice_map[i] & j)
         {
           keynum = (i * 8) + k ;
@@ -157,7 +158,7 @@ void updateCV()
     
     val += last_bend;
     
-    Wire.beginTransmission(0x60);
+    Wire.beginTransmission(0x61);
     Wire.write(byte(val >> 8));
     Wire.write(byte(val & 0xff));
     Wire.endTransmission();    
@@ -239,6 +240,7 @@ void handlePitchBend(byte channel, int bend)
     Serial.println(bend , HEX);
     
     // Bend is 14 bits, signed
+    // dual-7-bit thwacking already handled by midi parser
     
     last_bend = bend >> 4;
     
@@ -262,7 +264,7 @@ void handleCC(byte channel, byte number, byte value)
       case 1:
       {
         
-        Wire.beginTransmission(0x61);
+        Wire.beginTransmission(0x60);
         // Turn 7 bits into 12
         Wire.write(byte((value & 0x70) >> 3));
         Wire.write(byte((value & 0x0f) << 4));
